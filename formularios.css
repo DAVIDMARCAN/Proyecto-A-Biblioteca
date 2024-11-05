@@ -1,0 +1,158 @@
+body {
+    background-color: #ffffff;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.regresar{
+  background-color: #8485F1;
+  border: 2px solid #5e60c0;
+  border-radius: 4px;
+  color: #ffffff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+.regresar:hover{
+    scale: 1.05;
+    color: #8485F1;
+    background-color: #ffffff;
+}
+
+.regresar:active{
+    scale: 0.95;
+}
+.btn_prestamo{
+    background-color: #00106b;
+    border: 2px solid #014769;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+  }
+.btn_prestamo:hover{
+      scale: 1.05;
+      color: #014769;
+      background-color: #ffffff;
+  }
+  
+.btn_prestamo:active{
+      scale: 0.95;
+}
+.btn_devolucion{
+    background-color: #FFD83B;
+    border: 2px solid #F0834A;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+  }
+.btn_devolucion:hover{
+      scale: 1.05;
+      color: #F0834A;
+      background-color: #ffffff;
+  }
+  
+.btn_devolucion:active{
+      scale: 0.95;
+}
+.btn_extravio{
+    background-color: #E03C3B;
+    border: 2px solid #E96968;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-family: inherit;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+  }
+.btn_extravio:hover{
+      scale: 1.05;
+      color: #E96968;
+      background-color: #ffffff;
+  }
+  
+.btn_extravio:active{
+      scale: 0.95;
+}
+.btn_alumno{
+  background-color: #A27E7D;
+  border: 2px solid #A27E7D;
+  border-radius: 4px;
+  color: #ffffff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+.btn_alumno:hover{
+    scale: 1.05;
+    color: #A27E7D;
+    background-color: #ffffff;
+}
+
+.btn_alumno:active{
+    scale: 0.95;
+}
+.btn_cobrar{
+  background-color: #FFC4D4;
+  border: 2px solid #FFC4D4;
+  border-radius: 4px;
+  color: #ffffff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+.btn_cobrar:hover{
+    scale: 1.05;
+    color: #FFC4D4;
+    background-color: #ffffff;
+}
+
+.btn_cobrar:active{
+    scale: 0.95;
+}
+.btn_nuevo{
+  background-color: #9CD8E2;
+  border: 2px solid #9CD8E2;
+  border-radius: 4px;
+  color: #ffffff;
+  display: block;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+.btn_nuevo:hover{
+    scale: 1.05;
+    color: #9CD8E2;
+    background-color: #ffffff;
+}
+
+.btn_nuevo:active{
+    scale: 0.95;
+}
